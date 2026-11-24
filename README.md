@@ -1,6 +1,6 @@
 # 🛡️ DataGuard-Lite: AI Data Quality & Anomaly Detector
 
-**Live App:** [Click here to try DataGuard-Lite live](YOUR_LIVE_STREAMLIT_URL)
+**Live App:** https://dataguard-lite-dmn5xia3p4c22rqxheaszy.streamlit.app/
 
 ## 💡 What is this project?
 Big companies collect thousands of sales records every day, and messy mistakes—like missing prices, duplicate orders,
